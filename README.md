@@ -22,9 +22,7 @@
 
 [youku](https://raw.githubusercontent.com/songdaochuanshu/reset.css/main/src/reset-youku.css)
 
-[YUI](https://raw.githubusercontent.com/songdaochuanshu/reset.css/main/src/reset-tencent.css)
-
-[tencent](https://raw.githubusercontent.com/songdaochuanshu/reset.css/main/src/reset-YUI.css)
+[YUI](https://raw.githubusercontent.com/songdaochuanshu/reset.css/main/src/reset-YUI.css)
 
 [other1](https://raw.githubusercontent.com/songdaochuanshu/reset.css/main/src/reset-other1.css)
 
